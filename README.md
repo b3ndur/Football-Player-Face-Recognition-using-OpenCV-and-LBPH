@@ -1,0 +1,2 @@
+# Football-Player-Face-Recognition-using-OpenCV-and-LBPH
+I got this project from a Computer Vision course in college. I was asked to create an application that can recognize the faces of famous soccer players using Python and OpenCV. The dataset contains ten folders each containing twenty faces of famous football players. For the face detection model, using CascadeClassifier with an existing trained model. Then for face recognition use LBPH Face Recognizer which can be used via OpenCV.
